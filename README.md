@@ -137,7 +137,7 @@ MERN-BookStore is a comprehensive web application built using the MERN stack (Mo
 
 ## Project Structure
 
-`1)` `frontend`: 
+`1)` `frontend(cilent)`: 
 - `Connection`: Manages the database connection.
 - `Controllers`: Handles request handling and business logic.
 - `Models`: Defines data models/schema for the database.
@@ -145,7 +145,7 @@ MERN-BookStore is a comprehensive web application built using the MERN stack (Mo
 - `Routes`: Defines API routes for the application.
 - `utils`: Houses utility functions and helper modules.
 
-`2)` `backend`:
+`2)` `backend(server)`:
 - `Assets`: Stores static assets like images and styles.
 - `Components`: Contains reusable React components.
 - `Pages`: Defines the main application pages.
