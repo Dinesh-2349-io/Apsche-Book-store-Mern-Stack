@@ -84,7 +84,6 @@ If you have any questions, feedback, or would like to connect, feel free to reac
 - **LinkedIn:** [Yusufhan Saçak](https://www.linkedin.com/in/yusufhansacak/)
 
 Feel free to contact me through any of the channels above. I'm open to collaborations and discussions related to Flutter development or any other projects.
-# 📚 MERN-BookStore: A Full-Stack Web Application for Managing Books
 
 ## Overview
 
