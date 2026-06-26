@@ -1,4 +1,4 @@
-Book Store Project (MERN Stack)
+# Book Store Project (MERN Stack)
 
 
 ## Description
@@ -17,3 +17,70 @@ Video Tutorial: https://www.youtube.com/watch?v=-42K44A1oMA&t=4s
 
 ## Screenshots
 
+![Home](image.png)
+![Card View](image-1.png)
+![Create Book](image-2.png)
+![Show Book](image-3.png)
+![Edit Book](image-4.png)
+![Delete Book](image-5.png)
+
+
+## Getting Started
+
+Follow the steps below to set up the project on your local machine and run it:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/JosephDoUrden/Book-Store-Project
+cd book-store-project
+```
+
+2. Backend Setup:
+
+```bash
+cd backend
+npm install
+```
+
+- Configure the MongoDB connection by creating a .env file with your MongoDB URI:
+```
+MONGODB_URI=mongodb://localhost:27017/bookstore
+```
+
+- Start the backend server:
+```
+npm run dev
+```
+
+3. Frontend Setup(new terminal):
+```
+cd frontend
+npm install
+npm run dev
+```
+
+## Technologies Used
+### Backend:
+- Node.js
+- Express.js
+- MongoDB
+
+### Frontend:
+
+- Vite
+- React
+
+
+
+## Contact
+
+If you have any questions, feedback, or would like to connect, feel free to reach out to me.
+
+- **Name:** Yusufhan Saçak
+- **Email:** yusufhan.sacak@bahcesehir.edu.tr
+- **Website:** https://medium.com/@yusufhansacak
+- **Twitter:** [@0xSCK](https://twitter.com/0xSCK)
+- **LinkedIn:** [Yusufhan Saçak](https://www.linkedin.com/in/yusufhansacak/)
+
+Feel free to contact me through any of the channels above. I'm open to collaborations and discussions related to Flutter development or any other projects.
