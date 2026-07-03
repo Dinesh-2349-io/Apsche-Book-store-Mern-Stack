@@ -238,8 +238,3 @@ The Book Store architecture provides:
 ---
 ---
 
-If you want next sections in same format: 👉 2. ER Diagram
-👉 3. Key Features
-👉 4. Roles & Responsibilities
-
-Just tell “next” 👍
